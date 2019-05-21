@@ -4,7 +4,7 @@ single character recognition
 # structure
 servie -- detection and recognition service  
 train_cnn -- train recognition model by cnn  
-train_resnet -- train recognition model by cnn  
+train_resnet -- train recognition model by resnet  
 
 # Method
 Use classical image algorithm(opencv) to detect single character  
